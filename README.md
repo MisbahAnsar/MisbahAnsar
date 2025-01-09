@@ -62,7 +62,7 @@ Showcasing my work and passion for development: [Keizerr's Portfolio](https://ke
 ## 📫 **Connect With Me**
 
 - ![Twitter](https://img.shields.io/badge/-@Misbah8069-1DA1F2?logo=twitter&logoColor=white&style=flat-square): [Twitter](https://twitter.com/Misbah8069)
-- ![LinkedIn](https://img.shields.io/badge/-Misbah%20Ansari-0A66C2?logo=linkedin&logoColor=white&style=flat-square): [LinkedIn](https://linkedin.com/in/misbah-ansari)
+- ![LinkedIn](https://img.shields.io/badge/-Misbah%20Ansari-0A66C2?logo=linkedin&logoColor=white&style=flat-square): [LinkedIn](https://www.linkedin.com/in/misbah-ansari-52657428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 

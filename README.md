@@ -51,7 +51,7 @@
 ## 🌍 **Projects & Contributions**
 
 ### **Personal Portfolio:**
-Showcasing my work and passion for development: [Keizerr's Portfolio](https://keizerr.netlify.app/)
+Showcasing my work and passion for development: [Kares](https://kares69.vercel.app)
 
 ### **Collaborative Code Editor:** *(Work in Progress)*
 - **Stack:** Next.js, WebSocket, Prisma, PostgreSQL

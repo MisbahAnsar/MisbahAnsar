@@ -54,15 +54,15 @@ Always learning, always shipping.
 ---
 
 ## 🚀 What I’ve Built
-- **Ather (AI Voice Therapist)** – real-time conversational AI using Vapi + Deepgram  
-- **Solana Social Deduction Game** – 5-player on-chain strategy game with SOL payouts  
-- **Kares (Character Chat)** – full-stack Next.js + Gemini  
+- **Ather (AI Voice Therapist)** – real-time conversational AI using Vapi + Deepgram -> https://athers.me
+- **Solana Social Deduction Game** – On-Chain strategy game with SOL payouts -> https://omagahh67.vercel.app
+- **Kares (Character Chat)** – full-stack Next.js + Gemini -> https://karess69.vercel.app
 
 ---
 
 ## ⚡ What I’m Building
-- **Better-Stack** – real-time monitoring for websites  
-- **Solana UI Library** – components, layouts, and Solana-friendly UX  
+- **Better-Stack** – real-time monitoring for websites -> (coming soon)
+- **Solana UI Library** – components, layouts, and Solana-friendly UX -> (coming soon)  
 
 ---
 

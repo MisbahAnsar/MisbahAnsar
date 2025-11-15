@@ -18,37 +18,38 @@ Always learning, always shipping.
 
 ## 🛠️ Languages & Tools  
 
-### 🎨 **Frontend**
-React • Next.js • TailwindCSS • JavaScript • TypeScript  
-![React](https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=black)
-![Next](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### 🧩 **Backend**
-Node.js • Express • REST APIs  
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-### 🗄️ **Databases**
-MongoDB • PostgreSQL • Prisma  
-![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-### 🔗 **Web3**
-Solana • Web3.js • Wallet Adapters  
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Solana-7843f3?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 
-### 🤖 **AI Stack**
-OpenAI • Gemini • Deepgram • Vapi  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-E6002C?style=flat-square&logo=deepgram&logoColor=white)
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deepgram-E6002C?style=for-the-badge&logo=deepgram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vapi-000?style=for-the-badge&logoColor=white"/>
 
-### ⚙️ **Other Tools**
-Git • Postman • VS Code  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
@@ -61,7 +62,7 @@ Git • Postman • VS Code
 
 ## ⚡ What I’m Building
 - **Better-Stack** – real-time monitoring for websites  
-- **Solana UI Library** – more components, layouts, and Solana-friendly UX patterns  
+- **Solana UI Library** – components, layouts, and Solana-friendly UX  
 
 ---
 

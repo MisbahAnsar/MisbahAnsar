@@ -1,4 +1,4 @@
-# 🌈 HELLO WORLD!
+#  HELLO WORLD!
 
 I'm **Misbah Ansari** — a full-stack developer building at the intersection of **Web3**, **AI**, and clean, impactful product design.
 

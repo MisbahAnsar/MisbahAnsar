@@ -76,7 +76,7 @@ Real-time AI voice assistant built for emotional support conversations.
 
 **Stack:** Next.js, Vapi, Gemini
 
-→ https://athers.me
+→ https://athers.vercel.app
 
 ---
 

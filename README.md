@@ -20,15 +20,15 @@ Currently focused on:
 
 ### 🛠 Featured Projects
 
-**[Ather — AI Voice Therapist](https://athers.vercel.app)**
+**[Ather: AI Voice Therapist](https://athers.vercel.app)**
 Real-time voice AI with natural barge-in/interrupt handling, powered by Vapi + Deepgram + Gemini.
 `Next.js` `TypeScript` `Vapi` `Deepgram` `Gemini`
 
-**[SolDiff — On-Chain Program Upgrade Auditor](https://soldiff.vercel.app)**
+**[SolDiff: On-Chain Program Upgrade Auditor](https://soldiff.vercel.app)**
 Decompiles Solana bytecode into an IR/AST and diffs program upgrades, auto-flagging risky changes like removed signer checks. Grant-funded.
 `Next.js` `TypeScript` `Solana` `Helius RPC`
 
-**[Just Say It — AI Voice Typing for Windows](https://github.com/MisbahAnsar/justsayit)**
+**[Just Say It: AI Voice Typing for Windows](https://github.com/MisbahAnsar/justsayit)**
 Global push-to-talk desktop app, speak anywhere in Windows, get clean auto-pasted text via Deepgram + Gemini.
 `Electron` `TypeScript` `Deepgram` `Gemini`
 

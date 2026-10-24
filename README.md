@@ -12,7 +12,6 @@ Currently focused on:
 
 ### 🏆 Wins
 🏅 **All time $15000+ Adobe Grant** 
-🏅 **$590 Open Source Bounty** - NEAR Protocol ecosystem 
 🏅 **$200 Grant** - for SolDiff
 🏅 **Top 23 / 300+ teams** - GDG Mumbai Hackathon 
 

@@ -18,10 +18,10 @@ Shipping realtime voice products, Solana developer tools, and small things peopl
 
 ### `work`
 
-- [SolDiff](https://soldiff.vercel.app) · on-chain program upgrade auditor for Solana. Reconstructs historical versions from upgrade buffer writes, diffs the binaries, and flags risky changes like removed signer checks. $200 Superteam grant
+- [SolDiff](https://soldiff.in) · on-chain program upgrade auditor for Solana. Reconstructs historical versions from upgrade buffer writes, diffs the binaries, and flags risky changes like removed signer checks. $200 Superteam grant
 - [Athers](https://athers.vercel.app) · realtime AI voice therapist with natural barge-in, built with Vapi, Deepgram, and Gemini
 - [Just Say It](https://github.com/MisbahAnsar/justsayit) · global push-to-talk voice typing for Windows. Speak anywhere, get cleaned text pasted into the app you're in
-- [solsjin](https://github.com/MisbahAnsar/solsjin) · Solana UI kit for React and Next.js: wallets, balances, transfers, swaps, and NFTs on live RPC data
+- [solsjin](https://solsjin.com) · Solana UI kit for React and Next.js: wallets, balances, transfers, swaps, and NFTs on live RPC data
 
 ### `wins`
 
